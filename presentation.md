@@ -32,6 +32,36 @@ Text: CC-BY 4.0
 
 ---
 
+# Past topics
+
+.left-column50[
+- GitHub
+- Computers for research
+- Git conflicts
+- Open broadcaster software
+- Data preparation and release
+- Shells and terminals
+- Zen of scientific computing
+- Rust for science
+- Debugging
+- Containers
+]
+
+.right-column50[
+- Cluster etiquette
+- git-annex
+- Conda
+- Reproducibility
+- Command line arguments
+- Packaging
+- Testing
+- Workflows
+- Dependencies
+- Code review
+]
+
+---
+
 # Lessons learned
 
 - We wanted big live audience but we did not sufficiently advertise
