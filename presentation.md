@@ -32,7 +32,7 @@ Text: CC-BY 4.0
 
 ---
 
-# Past topics
+# Past topics &#127881;
 
 .left-column50[
 - GitHub
@@ -62,7 +62,7 @@ Text: CC-BY 4.0
 
 ---
 
-# Lessons learned
+# Lessons learned &#128161;
 
 - We wanted big live audience but we did not sufficiently advertise
 
@@ -79,7 +79,7 @@ Text: CC-BY 4.0
 
 ---
 
-# Future: We will probably restart!
+# Future: We will probably restart! &#128302;
 
 - Short sessions
 
