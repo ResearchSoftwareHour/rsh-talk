@@ -91,6 +91,6 @@ Text: CC-BY 4.0
 
 - Do better at social media and outreach
 
-- Streamline the production to have more time for content
-
 - **Please get in touch if you find this interesting**: <radovan.bast@uit.no>
+
+- These slides: https://doi.org/10.5281/zenodo.10126375
